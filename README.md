@@ -53,12 +53,12 @@
 </div>
 
 
-## `07` // CONTRIBUTION SNAKE
+## `07` CONTRIBUTION SNAKE
 
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/tdorji997-cell/tdorji997-cell/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
+    alt="GitHub Contribution Snake"
     width="100%"
   />
 </div>
