@@ -1,53 +1,32 @@
-name: GitHub Snake Game
+name: Generate contribution snake
 
 on:
-  # Schedule the workflow to run daily at midnight UTC
   schedule:
-    - cron: "0 0 * * *"
-  # Allow manual triggering of the workflow
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-  # Trigger the workflow on pushes to the main branch
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    # Explicitly grant permissions at the job level (recommended)
-    permissions:
-      contents: write
-
+    timeout-minutes: 5
     steps:
-      # Step 1: Checkout the repository
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      # Step 2: Generate the snake animations
-      - name: Generate GitHub Contributions Snake Animations
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Publish snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Step 3: Deploy the generated files to the 'output' branch
-      - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          commit_message: "Update snake animation [skip ci]"
-```[cite: 1]
-
-### What changed?
-* Added `permissions: contents: write` directly inside the `generate` job[cite: 1]. This ensures the token passed to the deployment action has explicit permission to write back to your repository.
-
-Once you update the repository settings (Step 1) and push this updated workflow file, re-run the job from the **Actions** tab, and it should complete successfully[cite: 1]!
