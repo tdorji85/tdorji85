@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:071521,45:07536A,100:00E5E5&text=HELLO%20WORLD&fontColor=E6FCFF&fontSize=42&fontAlignY=38&animation=fadeIn&desc=TDORJI%20%7C%20DEVELOPER%20IN%20PROGRESS&descAlignY=62&descSize=15" width="100%" alt="Cyber Cyan banner"/>
 
 <a href="https://github.com/tdorji85">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=850&color=00E5E5&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+Tdorji+%F0%9F%91%8B;Developer+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+code;Always+learning+something+new" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=850&color=00E5E5&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+Tshewang Dorji+%F0%9F%91%8B;Developer+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+code;Always+learning+something+new" alt="Animated typing introduction"/>
 </a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-tdorji85-071521?style=for-the-badge&logo=github&logoColor=00E5E5)](https://github.com/tdorji997-cell)
@@ -74,11 +74,15 @@
 
 ## `09` GITHUB ANALYTICS
 
+
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tdorji85&show_icons=true&hide_border=true&bg_color=071521&title_color=00E5E5&icon_color=38BDF8&text_color=DDF7FF&ring_color=00E5E5" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdorji85&layout=compact&hide_border=true&bg_color=071521&title_color=00E5E5&text_color=DDF7FF" alt="Most used languages"/>
-<img width="70%" src="https://streak-stats.demolab.com?user=tdorji85&hide_border=true&background=071521&ring=00E5E5&fire=38BDF8&currStreakLabel=00E5E5&sideLabels=DDF7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=83B7C5" alt="GitHub contribution streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=tdorji85&hide_border=true&background=071521&ring=00E5E5&fire=38BDF8&currStreakLabel=00E5E5&sideLabels=DDF7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=83B7C5"
+    width="70%"
+    alt="GitHub contribution streak"
+  />
 </div>
+
 
 ## `10` CONNECT
 
