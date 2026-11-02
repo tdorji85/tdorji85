@@ -69,15 +69,15 @@
 ## `08` CONTRIBUTION ACTIVITY
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tdorji997-cell&bg_color=071521&color=00E5E5&line=38BDF8&point=00E5E5&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tdorji85&bg_color=071521&color=00E5E5&line=38BDF8&point=00E5E5&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
 </div>
 
 ## `09` GITHUB ANALYTICS
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tdorji997-cell&show_icons=true&hide_border=true&bg_color=071521&title_color=00E5E5&icon_color=38BDF8&text_color=DDF7FF&ring_color=00E5E5" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdorji997-cell&layout=compact&hide_border=true&bg_color=071521&title_color=00E5E5&text_color=DDF7FF" alt="Most used languages"/>
-<img width="70%" src="https://streak-stats.demolab.com?user=tdorji997-cell&hide_border=true&background=071521&ring=00E5E5&fire=38BDF8&currStreakLabel=00E5E5&sideLabels=DDF7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=83B7C5" alt="GitHub contribution streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tdorji85&show_icons=true&hide_border=true&bg_color=071521&title_color=00E5E5&icon_color=38BDF8&text_color=DDF7FF&ring_color=00E5E5" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdorji85&layout=compact&hide_border=true&bg_color=071521&title_color=00E5E5&text_color=DDF7FF" alt="Most used languages"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=tdorji85&hide_border=true&background=071521&ring=00E5E5&fire=38BDF8&currStreakLabel=00E5E5&sideLabels=DDF7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=83B7C5" alt="GitHub contribution streak"/>
 </div>
 
 ## `10` CONNECT
