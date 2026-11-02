@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=850&color=00E5E5&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+Tdorji+%F0%9F%91%8B;Developer+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+code;Always+learning+something+new" alt="Animated typing introduction"/>
 </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-tdorji997--cell-071521?style=for-the-badge&logo=github&logoColor=00E5E5)](https://github.com/tdorji997-cell)
+[![GitHub](https://img.shields.io/badge/GitHub-tdorji85-071521?style=for-the-badge&logo=github&logoColor=00E5E5)](https://github.com/tdorji997-cell)
 [![Profile Views](https://komarev.com/ghpvc/?username=tdorji997-cell&style=for-the-badge&color=008FA3&label=PROFILE+VIEWS)](https://github.com/tdorji997-cell)
 
 </div>
@@ -18,7 +18,7 @@
 - 🌱 Exploring, learning, and building with code.
 - 💡 I enjoy turning ideas into useful, creative projects.
 - 🎯 Always improving my problem-solving skills.
-- ⚡ Interested in web development, software development, and databases.
+- ⚡ Interested in fullstack development, game development, and ai.
 
 ## `02` // DEVELOPER AT WORK
 
