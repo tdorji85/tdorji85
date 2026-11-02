@@ -53,15 +53,17 @@
 </div>
 
 
+
 ## `07` CONTRIBUTION SNAKE
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/tdorji997-cell/tdorji997-cell/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/tdorji85/tdorji85/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
 </div>
+
 
 
 ## `08` CONTRIBUTION ACTIVITY
