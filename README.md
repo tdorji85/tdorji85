@@ -69,9 +69,12 @@
 ## `08` CONTRIBUTION ACTIVITY
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tdorji85&bg_color=071521&color=00E5E5&line=38BDF8&point=00E5E5&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tdorji85&bg_color=071521&color=00E5E5&line=38BDF8&point=00E5E5&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
 </div>
-
 ## `09` GITHUB ANALYTICS
 
 
