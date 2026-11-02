@@ -26,11 +26,13 @@
 <img src="./assets/coding-developer.gif" width="100%" alt="Animated illustration of a developer coding at a desk"/>
 </div>
 
+
 ## `03` // TECH STACK
 
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mysql,mongodb,nodejs,react&perline=5&theme=dark)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mysql,mongodb,nodejs,react&perline=5&theme=dark" alt="My Technology Stack" />
 </div>
+
 
 ## `04` // SYSTEM NETWORK
 
