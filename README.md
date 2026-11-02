@@ -6,7 +6,8 @@
 
 <!-- Animated Typing Introduction -->
 <a href="https://github.com/tdorji85">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=850&color=00E5E5&center=true&vCenter=true&width=620&lines=Hello%2C+I%27m+Tshewang+Dorji+%F0%9F%91%8B;Developer+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+code;Always+learning+something+new" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=850&color=000000&center=true&vCenter=true&width=620&lines=Hello%2C+I%27m+Tshewang+Dorji+%F0%9F%91%8B;Developer+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+code;Always+learning+something+new" alt="Animated typing introduction"/>
+</a>
 </a>
 
 <br/>
@@ -41,19 +42,14 @@
 </div>
 
 
-## `04` SYSTEM NETWORK
 
-<div align="center">
-<img src="./assets/circuit.gif" width="100%" alt="Animated cyan circuit network"/>
-</div>
-
-## `05` LIVE TERMINAL
+## `04` LIVE TERMINAL
 
 <div align="center">
 <img src="./assets/terminal.gif" width="100%" alt="Animated developer terminal"/>
 </div>
 
-## `06` SIGNAL FREQUENCY
+## `05` SIGNAL FREQUENCY
 
 <div align="center">
 <img src="./assets/wave.gif" width="100%" alt="Animated cyan waveform"/>
@@ -61,11 +57,11 @@
 
 
 
-## `07` CONTRIBUTION SNAKE
+## `06` CONTRIBUTION SNAKE
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/tdorji85/tdorji85/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/tdorji85/tdorji85/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
@@ -73,7 +69,7 @@
 
 
 
-## `08` CONTRIBUTION ACTIVITY
+## `07` CONTRIBUTION ACTIVITY
 
 <div align="center">
   <img
@@ -83,7 +79,7 @@
   />
 </div>
 
-## `09` GITHUB ANALYTICS
+## `08` GITHUB ANALYTICS
 
 
 <div align="center">
@@ -95,7 +91,7 @@
 </div>
 
 
-## `10` CONNECT
+## `09` CONNECT
 
 <div align="center">
 
