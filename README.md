@@ -13,64 +13,64 @@
 
 ---
 
-## `01` // ABOUT ME
+## `01` ABOUT ME
 
 - 🌱 Exploring, learning, and building with code.
 - 💡 I enjoy turning ideas into useful, creative projects.
 - 🎯 Always improving my problem-solving skills.
 - ⚡ Interested in fullstack development, game development, and ai.
 
-## `02` // DEVELOPER AT WORK
+## `02` DEVELOPER AT WORK
 
 <div align="center">
 <img src="./assets/coding-developer.gif" width="100%" alt="Animated illustration of a developer coding at a desk"/>
 </div>
 
 
-## `03` // TECH STACK
+## `03` TECH STACK
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mysql,mongodb,nodejs,react&perline=5&theme=dark" alt="My Technology Stack" />
 </div>
 
 
-## `04` // SYSTEM NETWORK
+## `04` SYSTEM NETWORK
 
 <div align="center">
 <img src="./assets/circuit.gif" width="100%" alt="Animated cyan circuit network"/>
 </div>
 
-## `05` // LIVE TERMINAL
+## `05` LIVE TERMINAL
 
 <div align="center">
 <img src="./assets/terminal.gif" width="100%" alt="Animated developer terminal"/>
 </div>
 
-## `06` // SIGNAL FREQUENCY
+## `06` SIGNAL FREQUENCY
 
 <div align="center">
 <img src="./assets/wave.gif" width="100%" alt="Animated cyan waveform"/>
 </div>
 
-## `07` // 3D CORE
+
+## `07` // CONTRIBUTION SNAKE
 
 <div align="center">
-<img src="./assets/core-3d.gif" width="100%" alt="Rotating cyan 3D wireframe sphere"/>
+  <img
+    src="https://raw.githubusercontent.com/tdorji997-cell/tdorji997-cell/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
 </div>
 
-## `08` // CONTRIBUTION SNAKE
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/tdorji997-cell/tdorji997-cell/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake eating the GitHub contribution graph"/>
-</div>
-
-## `09` // CONTRIBUTION ACTIVITY
+## `08` CONTRIBUTION ACTIVITY
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tdorji997-cell&bg_color=071521&color=00E5E5&line=38BDF8&point=00E5E5&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
 </div>
 
-## `10` // GITHUB ANALYTICS
+## `09` GITHUB ANALYTICS
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=tdorji997-cell&show_icons=true&hide_border=true&bg_color=071521&title_color=00E5E5&icon_color=38BDF8&text_color=DDF7FF&ring_color=00E5E5" alt="GitHub statistics"/>
@@ -78,7 +78,7 @@
 <img width="70%" src="https://streak-stats.demolab.com?user=tdorji997-cell&hide_border=true&background=071521&ring=00E5E5&fire=38BDF8&currStreakLabel=00E5E5&sideLabels=DDF7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=83B7C5" alt="GitHub contribution streak"/>
 </div>
 
-## `11` // CONNECT
+## `10` CONNECT
 
 <div align="center">
 
