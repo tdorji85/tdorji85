@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:071521,45:07536A,100:00E5E5&text=HELLO%20WORLD&fontColor=E6FCFF&fontSize=42&fontAlignY=38&animation=fadeIn&desc=TDORJI%20%7C%20DEVELOPER%20IN%20PROGRESS&descAlignY=62&descSize=15" width="100%" alt="Cyber Cyan banner"/>
 
-<a href="https://github.com/tdorji997-cell">
+<a href="https://github.com/tdorji85">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=850&color=00E5E5&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+Tdorji+%F0%9F%91%8B;Developer+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+code;Always+learning+something+new" alt="Animated typing introduction"/>
 </a>
 
